@@ -1,0 +1,20 @@
+{
+    "2": {
+        "id": "2",
+        "title": "apple",
+        "author": "robin",
+        "is_issued": false
+    },
+    "3": {
+        "id": "3",
+        "title": "wings of fire",
+        "author": "A.P.J Abdul Kalam",
+        "is_issued": false
+    },
+    "4": {
+        "id": "4",
+        "title": "you can win",
+        "author": "Shiv Khera",
+        "is_issued": false
+    }
+}
